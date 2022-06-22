@@ -1,0 +1,23 @@
+.body_backgorund  {
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: crimson;
+}
+
+button {
+    width: 30%;
+    background-color: rgb(226, 64, 91);
+}
+
+#amma {
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 50px;
+}
